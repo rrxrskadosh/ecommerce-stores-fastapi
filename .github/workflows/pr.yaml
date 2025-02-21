@@ -1,0 +1,23 @@
+name: PR Check
+
+on:
+  - pull_request
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Debug - Check directory structure
+        run: ls -R
+
+      - name: Install Dependecies
+        run: |
+          pip3 install -r requirements.txt
+
+      - name: Run tests
+        run: |
+          pytest test/test.py
