@@ -32,7 +32,6 @@ htmlcov/
 
 # Data files
 data/*.json
-!data/example.json  # Si quieres mantener un archivo de ejemplo
 
 # FastAPI static & temp files
 instance/

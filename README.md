@@ -4,7 +4,7 @@
 
 ## 🚀 Features 
 
-✅ CRUD stires 🏪  
+✅ CRUD stores 🏪  
 ✅ CRUD products 🛍️  
 ✅ Inventory management 📦  
 ✅ Tested with Pytest ✅  
