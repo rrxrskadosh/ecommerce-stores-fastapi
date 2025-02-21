@@ -1,0 +1,39 @@
+# Virtual environment
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs & Debugging files
+*.log
+*.out
+*.err
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.iml
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Environment variables & credentials
+.env
+*.env
+
+# Pytest cache & coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Data files
+data/*.json
+!data/example.json  # Si quieres mantener un archivo de ejemplo
+
+# FastAPI static & temp files
+instance/
+uploads/
