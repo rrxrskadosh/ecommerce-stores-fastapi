@@ -6,14 +6,13 @@ on:
 jobs:
   check:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        shell: bash
-        working-directory: ecommerce-stores-fastapi
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+      
+      - name: Debug: Check directory structure
+        run: ls -R
 
       - name: Install Dependecies
         run: |
