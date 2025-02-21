@@ -9,7 +9,7 @@ jobs:
     defaults:
       run:
         shell: bash
-        working-directory: ./ecommerce-stores-fastapi
+        working-directory: ecommerce-stores-fastapi
 
     steps:
       - name: Checkout code
