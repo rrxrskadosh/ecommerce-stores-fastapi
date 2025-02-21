@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "Gaming Monitor",
+        "price": 299.99
+    },
+    {
+        "id": 2,
+        "name": "Mechanical Keyboard",
+        "price": 129.99
+    },
+    {
+        "id": 3,
+        "name": "Wireless Gaming Mouse",
+        "price": 79.99
+    },
+    {
+        "id": 4,
+        "name": "NVMe SSD 1TB",
+        "price": 150.00
+    },
+    {
+        "id": 5,
+        "name": "External Hard Drive 2TB",
+        "price": 110.50
+    },
+    {
+        "id": 6,
+        "name": "Gaming Headset",
+        "price": 89.99
+    },
+    {
+        "id": 7,
+        "name": "RGB Mouse Pad",
+        "price": 45.75
+    },
+    {
+        "id": 8,
+        "name": "USB-C Docking Station",
+        "price": 79.00
+    },
+    {
+        "id": 9,
+        "name": "Webcam 1080p",
+        "price": 65.00
+    },
+    {
+        "id": 10,
+        "name": "Bluetooth Speakers",
+        "price": 120.25
+    },
+    {
+        "id": 11,
+        "name": "4K Capture Card",
+        "price": 210.99
+    },
+    {
+        "id": 12,
+        "name": "Gaming Chair",
+        "price": 350.00
+    },
+    {
+        "id": 13,
+        "name": "Ergonomic Desk",
+        "price": 450.75
+    },
+    {
+        "id": 14,
+        "name": "Smart LED Light Strip",
+        "price": 39.99
+    },
+    {
+        "id": 15,
+        "name": "Portable Laptop Stand",
+        "price": 25.50
+    },
+    {
+        "id": 16,
+        "name": "USB Microphone",
+        "price": 95.99
+    },
+    {
+        "id": 17,
+        "name": "VR Headset",
+        "price": 499.99
+    },
+    {
+        "id": 18,
+        "name": "Portable Power Bank",
+        "price": 59.99
+    },
+    {
+        "id": 19,
+        "name": "Noise-Canceling Headphones",
+        "price": 180.00
+    },
+    {
+        "id": 20,
+        "name": "Smartwatch",
+        "price": 230.50
+    },
+    {
+        "id": 21,
+        "name": "Wireless Charging Pad",
+        "price": 45.99
+    },
+    {
+        "id": 22,
+        "name": "HDMI 2.1 Cable",
+        "price": 29.99
+    },
+    {
+        "id": 23,
+        "name": "Raspberry Pi 4 Kit",
+        "price": 89.99
+    },
+    {
+        "id": 24,
+        "name": "Smart WiFi Plug",
+        "price": 22.50
+    },
+    {
+        "id": 25,
+        "name": "Graphic Tablet",
+        "price": 140.99
+    },
+    {
+        "id": 26,
+        "name": "Dual Monitor Stand",
+        "price": 75.49
+    },
+    {
+        "id": 27,
+        "name": "High-Speed SD Card 256GB",
+        "price": 49.99
+    },
+    {
+        "id": 28,
+        "name": "External DVD Drive",
+        "price": 55.00
+    },
+    {
+        "id": 29,
+        "name": "WiFi 6 Router",
+        "price": 199.99
+    },
+    {
+        "id": 30,
+        "name": "Portable Projector",
+        "price": 320.00
+    }
+]
